@@ -39,10 +39,11 @@ The code has been organized so that each notebook reproduces one or more figures
 urban-water-consumption-ml/
 │
 ├── data/
-│   ├── Ini23NovFin30Abril.csv
-│   ├── Dataset_Consumo_Shifts_v2.xlsx
 │   ├── Dataset_Consumo_Label_v1.xlsx
-│   └── README.md
+│   ├── Dataset_Consumo_Shifts_v2.xlsx
+│   ├── Ini23NovFin30Abril.csv
+│   ├── README.md
+│   └── architecture.png
 │
 ├── results/
 │   ├── Figure_3_Daily_Time_Series.ipynb
