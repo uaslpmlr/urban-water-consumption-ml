@@ -33,3 +33,31 @@ The repository has been organized so that each notebook reproduces one or more s
 ---
 
 ## Repository Structure
+## Repository Structure
+
+```text
+urban-water-consumption-ml/
+│
+├── data/
+│   ├── Ini23NovFin30Abril.csv
+│   ├── Dataset_Consumo_Shifts_v2.xlsx
+│   ├── Dataset_Consumo_Label_v1.xlsx
+│   └── README.md
+│
+├── results/
+│   ├── Figure_3_Daily_Time_Series.ipynb
+│   ├── Figure_4_Daily_Distribution.ipynb
+│   ├── Figure_5_Dominant_Shift.ipynb
+│   ├── Figure_6_Weekly_Pattern.ipynb
+│   ├── Figure_7_Label_Distribution.ipynb
+│   ├── Figure_8_Unsupervised_Analysis.ipynb
+│   ├── Figure_9_Supervised_Models.ipynb
+│   ├── Table_VI_Performance.ipynb
+│   └── README.md
+│
+├── README.md
+├── requirements.txt
+└── LICENSE
+```
+
+
