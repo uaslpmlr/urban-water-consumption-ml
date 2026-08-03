@@ -1,7 +1,7 @@
 # IoT-Based Monitoring and Machine Learning Classification of Urban Water Consumption Patterns
 
 <p align="center">
-<img src="architecture.png" width="900">
+<img src="data/architecture.png" width="900">
 </p>
 
 ## Manuscript Information
